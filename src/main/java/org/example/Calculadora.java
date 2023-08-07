@@ -1,5 +1,8 @@
 package org.example;
 
+/***
+ * @author joelbrondo
+ */
 public class Calculadora {
 
     public static int suma(int num1, int num2) {
