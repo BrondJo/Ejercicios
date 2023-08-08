@@ -1,4 +1,4 @@
-package org.example;
+package Ejercicio1;
 
 /***
  * @author joelbrondo
